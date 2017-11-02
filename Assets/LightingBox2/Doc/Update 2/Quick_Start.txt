@@ -1,0 +1,64 @@
+
+
+Hi
+
+Before start go to Edit->project->Player settings and remove DirectX9 from Auto Graphics API section   
+
+Lighting Box 2.0+ has been used Post Processing Stack 2 beta 2 as Post Processing effects. Also used True Volumetric Light asset as
+Volumetric lighting. GlobalFog image effect for combining unity Fog with distance and height based fog solution   
+Also used Legacy Cinematic Image Effects as Depth of Field and Screen Space Reflections effects (Has more options and quality)
+
+Note : You can find default Lighting Profiles (looks like update 1 to 1.4) from here :
+Assets->LightingBox2->Scripts->Profiles
+
+True Volumetric Light :
+https://forum.unity.com/threads/true-volumetric-lights-now-open-source.390818/
+
+Post Processing Stack 2 :
+https://github.com/Unity-Technologies/PostProcessing/tree/v2
+
+SharpConfig from : 
+https://github.com/cemdervis/SharpConfig/releases
+
+Watch the tutorials playlist:
+https://www.youtube.com/watch?v=9icSrQVi2v8&list=PLVXvfvDWvto3p5nJsqRUzYyZloE7M-Dzg
+
+LightingBox 1.4 for unity 5.4:
+https://drive.google.com/file/d/0B2WDRR3zNNn8ZWxqZGV5Qnd5ems/view?usp=sharing
+LightingBox 1.4 for unity 5.6+:
+https://drive.google.com/file/d/0B2WDRR3zNNn8elI2blFKRnJIYjg/view?usp=sharing
+
+If you want to import Lighting Box 2 into your new project, you can download small version (Only necessary components) into your
+exiting project :
+http://89.163.206.23/LightingBox2_3_1.zip
+
+Then you need to set your project settings to following :
+
+1. Go to Edit->Player and unchecked Auto Graphics API. Then remove DX9 api and only use DX11 , DX12 or Vulkan for windows.
+Metal for Mac and iOS
+
+2. You need to switch to Linear color space for next gen platforms (UE4 and most next gen game engines used only Linear).
+It's possible to change from Lighting Box window
+
+3. witch to deferred rendering path for better reflections and Screen Space Reflection support. 
+It's possible to change from Lighting Box window
+
+Note : Gamma color space and Forward rendering path has higher performance on low-end devices
+
+Follow topic:
+https://forum.unity.com/threads/50-off-lighting-box-nextgen-lighting-released.475644/page-25#post-3230120
+
+WebGL support :
+Watch the tutorials playlist:
+https://www.youtube.com/watch?v=9icSrQVi2v8&list=PLVXvfvDWvto3p5nJsqRUzYyZloE7M-Dzg
+
+WebGL performance tips :
+https://docs.unity3d.com/Manual/webgl-performance.html
+
+More info about WebGL:
+https://docs.unity3d.com/Manual/webgl.html
+
+Minimum system :
+CPU 4+ cores (Check your cpu score from PassMark site. Your cpu's score should be higher than 5000~) 
+GPU GTX 550ti for 720P and GTX 760+ for 1080P and GTX 960+ for smooth 1080P   
+8GB Ram for realtime and 16+ gb for baking mode usign progressive lightmapper   

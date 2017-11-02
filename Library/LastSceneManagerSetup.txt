@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Spiaggia Mappa.unity
+  isLoaded: 1
+  isActive: 1

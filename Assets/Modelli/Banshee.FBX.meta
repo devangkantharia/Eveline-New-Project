@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: f14aaeb2a68c0f14184ffe63a95a89d2
+timeCreated: 1493157316
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Calze1
+    100004: Capelli
+    100006: Cos.
+    100008: Dx
+    100010: Petto
+    100012: Scarpe
+    100014: Sx
+    100016: Testa
+    100018: Vestito
+    400000: //RootNode
+    400002: Calze1
+    400004: Capelli
+    400006: Cos.
+    400008: Dx
+    400010: Petto
+    400012: Scarpe
+    400014: Sx
+    400016: Testa
+    400018: Vestito
+    2300000: Calze1
+    2300002: Capelli
+    2300004: Cos.
+    2300006: Dx
+    2300008: Petto
+    2300010: Scarpe
+    2300012: Sx
+    2300014: Testa
+    2300016: Vestito
+    3300000: Calze1
+    3300002: Capelli
+    3300004: Cos.
+    3300006: Dx
+    3300008: Petto
+    3300010: Scarpe
+    3300012: Sx
+    3300014: Testa
+    3300016: Vestito
+    4300000: Vestito
+    4300002: Dx
+    4300004: Petto
+    4300006: Cos.
+    4300008: Testa
+    4300010: Capelli
+    4300012: Scarpe
+    4300014: Calze1
+    4300016: Sx
+    6400000: Calze1
+    6400002: Capelli
+    6400004: Cos.
+    6400006: Dx
+    6400008: Petto
+    6400010: Scarpe
+    6400012: Sx
+    6400014: Testa
+    6400016: Vestito
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

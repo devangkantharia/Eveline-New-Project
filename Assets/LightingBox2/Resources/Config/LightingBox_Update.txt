@@ -1,0 +1,5 @@
+[SampleProjects]
+sampleNames = {Ca Sample Desert}
+sampleLinks = {http://89.163.206.23/CarSampleLink.zip}
+version = 2.32
+sampleVersions = {2.32}

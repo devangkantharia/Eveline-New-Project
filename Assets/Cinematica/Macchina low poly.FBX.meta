@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 5f025c00ffa25fa4498490c827e03be4
+timeCreated: 1499976782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Carrozzeria interna
+    100004: Cylinder002
+    100006: Cylinder003
+    100008: Cylinder004
+    100010: Cylinder005
+    100012: Fari
+    100014: Grigio
+    100016: Grigio001
+    100018: Grigio002
+    100020: Grigio003
+    100022: Grigio004
+    100024: //RootNode
+    100026: Nero iterno
+    100028: Portiera
+    100030: Roda
+    100032: Roda001
+    100034: Roda002
+    100036: Roda003
+    100038: Sedile
+    100040: Vetro frontale
+    100042: Vetro interno
+    100044: Vetro lato
+    100046: Vetro porta dx
+    100048: Vetro porta sx
+    100050: Vetro retro
+    400000: Box001
+    400002: Carrozzeria interna
+    400004: Cylinder002
+    400006: Cylinder003
+    400008: Cylinder004
+    400010: Cylinder005
+    400012: Fari
+    400014: Grigio
+    400016: Grigio001
+    400018: Grigio002
+    400020: Grigio003
+    400022: Grigio004
+    400024: //RootNode
+    400026: Nero iterno
+    400028: Portiera
+    400030: Roda
+    400032: Roda001
+    400034: Roda002
+    400036: Roda003
+    400038: Sedile
+    400040: Vetro frontale
+    400042: Vetro interno
+    400044: Vetro lato
+    400046: Vetro porta dx
+    400048: Vetro porta sx
+    400050: Vetro retro
+    2300000: Box001
+    2300002: Carrozzeria interna
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: Cylinder005
+    2300012: Fari
+    2300014: Grigio
+    2300016: Grigio001
+    2300018: Grigio002
+    2300020: Grigio003
+    2300022: Grigio004
+    2300024: Nero iterno
+    2300026: Portiera
+    2300028: Sedile
+    2300030: Vetro frontale
+    2300032: Vetro interno
+    2300034: Vetro lato
+    2300036: Vetro porta dx
+    2300038: Vetro porta sx
+    2300040: Vetro retro
+    3300000: Box001
+    3300002: Carrozzeria interna
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: Cylinder005
+    3300012: Fari
+    3300014: Grigio
+    3300016: Grigio001
+    3300018: Grigio002
+    3300020: Grigio003
+    3300022: Grigio004
+    3300024: Nero iterno
+    3300026: Portiera
+    3300028: Sedile
+    3300030: Vetro frontale
+    3300032: Vetro interno
+    3300034: Vetro lato
+    3300036: Vetro porta dx
+    3300038: Vetro porta sx
+    3300040: Vetro retro
+    4300000: Box001
+    4300002: Fari
+    4300004: Grigio
+    4300006: Portiera
+    4300008: Vetro lato
+    4300010: Vetro frontale
+    4300012: Vetro retro
+    4300014: Cylinder002
+    4300016: Grigio001
+    4300018: Grigio002
+    4300020: Cylinder003
+    4300022: Grigio003
+    4300024: Cylinder004
+    4300026: Cylinder005
+    4300028: Grigio004
+    4300030: Sedile
+    4300032: Nero iterno
+    4300034: Carrozzeria interna
+    4300036: Vetro interno
+    4300038: Vetro porta sx
+    4300040: Vetro porta dx
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
